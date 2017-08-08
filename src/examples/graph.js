@@ -53,7 +53,7 @@ const sample = {
   "nodes": [
     {
       "id": 1,
-      "title": "Node A",
+      "title": "<span contenteditable="true">Node A"</span>,
       "x": 258.3976135253906,
       "y": 331.9783248901367,
       "type": SPECIAL_TYPE
