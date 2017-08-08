@@ -62,7 +62,7 @@ export default {
       shape: EmptyShape
     },
     special: {
-      typeText: "Special",
+      typeText: <span contenteditable="true">"Special"</span>,
       shapeId: "#special",
       shape: SpecialShape
     }
